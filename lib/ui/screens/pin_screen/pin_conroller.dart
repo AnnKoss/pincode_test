@@ -1,9 +1,3 @@
-// class PinController {
-//   PinState PinState(PinState currentState, String value) {
-
-//   }
-// }
-
 class PinState {
   PinState(
     this.pin,
